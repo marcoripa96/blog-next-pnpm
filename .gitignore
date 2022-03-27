@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+.pnp-store
 
 # testing
 /coverage
@@ -33,3 +34,5 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+.pnpm-store
